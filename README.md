@@ -78,7 +78,7 @@ int main()
     return 0;
 }
 ```
-
+![exp17](https://github.com/ashuydv-05/Experiment-17/blob/main/Screenshot%202024-10-22%20144309.png)
 
 Conclusion:-In this experiment we learnt about singly linked list
 
